@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shaxbee
+- 👀 I’m interested in distributed systems
+- 🌱 I’m currently learning Hydra, Buf
+- 💞️ I’m looking to collaborate on Buf plugins
